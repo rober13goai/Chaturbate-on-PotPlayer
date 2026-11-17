@@ -52,7 +52,7 @@ Installation instructions are provided after purchase.
 
 ## Get "Chaturbate on Potplayer"
 
-[View Product and Purchase on Gumroad](https://robergoai.gumroad.com/l/jkvylm)
+[View Product and Purchase on Gumroad](https://robergoai.gumroad.com/l/aencz)
 
 **Price: US$9.99**
 
