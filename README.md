@@ -48,7 +48,6 @@ Installation instructions are provided after purchase.
 - This extension detects and passes supported stream sources to an external media player.
 - It does not host or distribute live video content.
 - PotPlayer is a separate application and is not included.
-- Website changes may affect stream detection and playback.
 
 ## Get "Chaturbate on Potplayer"
 
